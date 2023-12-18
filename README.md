@@ -11,3 +11,4 @@ Schedule:
 * 6:30PM-8:45PM : Freetime
 * 8:45PM-10:45PM : HW Time
 * 10:45PM-11:20PM : Getting ready to sleep
+* After 11:20PM : Sleep
