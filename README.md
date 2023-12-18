@@ -9,4 +9,5 @@ Schedule:
 * 3:30PM-5:30PM : Freetime
 * 5:30PM-6:30PM : Dinner
 * 6:30PM-8:45PM : Freetime
-* 8:45PM-10:45PM : HW
+* 8:45PM-10:45PM : HW Time
+* 10:45PM-11:20PM : Getting ready to sleep
