@@ -9,3 +9,4 @@ Schedule:
 * 3:30PM-5:30PM : Freetime
 * 5:30PM-6:30PM : Dinner
 * 6:30PM-8:45PM : Freetime
+* 8:45PM-10:45PM : HW
