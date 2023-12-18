@@ -13,4 +13,4 @@ Schedule:
 * 10:45PM-11:20PM : Getting ready to sleep
 * 11:20PM and after : Sleep
 
-Bio: I am a student at HSTAT. I am currently a Sophomore. My main hobbies are drawing and playing video games. I am currently working on a three year course, which is CSP. My main goal is to make it to an art class and get better and make improvements in art. I'd also like to be able to pass and go onto College. This is where I will be posting about my projects later on:
+Bio: I am a student at HSTAT. I am currently a Sophomore. My main hobbies are drawing and playing video games. I am currently working on a three year course, which is CSP. My main goal is to make it to an art class and get better and make improvements in art. I'd also like to be able to pass and go onto College. This is where I will be posting about my projects later on: https://dayanisc7709.github.io/index.html
