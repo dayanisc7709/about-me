@@ -1,1 +1,7 @@
-# about-me
+### _**Name: Dayanis Chora**_
+## _**Email: dayanisc2@nycsutudents.net**_
+---
+    School: HSTAT (High School of TelecommunicationsArts and Technology)
+    Schedule:
+* 7:30AM-8:20AM : Getting ready and train ride
+* 8:20AM-2:30PM : School hours
