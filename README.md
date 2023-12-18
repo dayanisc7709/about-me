@@ -8,3 +8,4 @@ Schedule:
 * 2:30PM-3:30PM : Getting home
 * 3:30PM-5:30PM : Freetime
 * 5:30PM-6:30PM : Dinner
+* 6:30PM-8:45PM : Freetime
