@@ -1,5 +1,5 @@
 ### _**Name: Dayanis Chora**_
-## _**Email: dayanisc2@nycsutudents.net**_
+## _**Email: dayanisc2@nycstudents.net**_
 ---
 School: HSTAT (High School of TelecommunicationsArts and Technology)
 ---
